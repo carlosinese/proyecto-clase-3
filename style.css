@@ -1,0 +1,9 @@
+body {
+	font-family: 'Slabo 27px', serif;
+
+}
+
+aside ul li a {
+	display: inline-block;
+	margin-right: 50px;
+}
